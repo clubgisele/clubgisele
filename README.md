@@ -1,7 +1,7 @@
 - 👋 hi, I’m @clubgisele
 - 👀 i’m interested in pre-loved clothes
-- 🌱 i’m currently learning recommendation algorithm to be sure that accessing pre-loved clothes becomes easier than accessing new ones 
-- 🧤 new venture in progress
+- 🌱 i’m currently learning recommendation algorithm
+- 🧢 on a mission to make pre-loved clothes accessibility easier than new ones
 
 <!---
 clubgisele/clubgisele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
